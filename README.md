@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm currently working on some awesome 🚀 things. Stay tuned.
 <!--
 **danvy/danvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,4 +38,3 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logoColor=white&logo=terraform)](https://github.com/danvy)
 [![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logoColor=white&logo=github-actions)](https://github.com/danvy)
 
-I'm currently working on some awesome 🚀 things.
