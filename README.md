@@ -1,6 +1,6 @@
 ### Hi there 👋
 What a blast !
-I just launched [Altoviz](https://altoviz.com) an smart and affordable invoicing and accounting app for small businesses and freelancers.
+I just launched [Altoviz](https://altoviz.com) a smart and affordable invoicing and accounting app for small businesses and freelancers.
 Stay tuned.
 <!--
 **danvy/danvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
